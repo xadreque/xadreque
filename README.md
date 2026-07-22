@@ -31,16 +31,12 @@ Possuo um histórico sólido de entrega de plataformas ativas no mercado naciona
 * **Ecossistema Web**: Criação e manutenção de plataformas comerciais ativas e implantadas no mercado de Moçambique.
 * **Backend Robustez**: Foco em padrões arquiteturais modernos, APIs RESTful e integração segura com bases de dados.
 
----
-
 ### 📊 Estatísticas de Engenharia
 
 <p align="left">
   <img src="https://vercel.app" height="180" alt="Estatísticas do GitHub" />
   <img src="https://vercel.app" height="180" alt="Linguagens mais utilizadas" />
 </p>
-
----
 
 ### 📬 Conecte-se Comigo
 
