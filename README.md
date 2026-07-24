@@ -34,7 +34,7 @@ Possuo um histórico sólido de entrega de plataformas ativas no mercado naciona
 ### 📊 Estatísticas de Engenharia
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=xadreque&show_icons=true&include_all_commits=true&count_private=true&theme=graywhite&hide_border=true" height="180" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sxadrreque&layout=compact&langs_count=8&theme=graywhite&hide_border=true" height="180" alt="Linguagens mais utilizadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xadreque&layout=compact&langs_count=8&theme=graywhite&hide_border=true" height="180" alt="Linguagens mais utilizadas" />
 </p>
 
 ### 📬 Conecte-se Comigo
